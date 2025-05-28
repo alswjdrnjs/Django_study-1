@@ -1,1 +1,1 @@
-# Django_study-1
+# Django_studys
